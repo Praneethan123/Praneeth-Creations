@@ -1,0 +1,194 @@
+.p2:hover{
+    color: white;
+}
+.p3:hover{
+    color: white;
+}
+.p5:hover{
+    color: white;
+}
+
+.btn1:hover{
+    box-shadow: 0 0 100px gray,
+    0 0 100px gray,0 0 104px gray,
+    0 0 100px gray,0 0 100px gray;
+    transform: scale(1.1);
+    transition: transform 0.8s;
+}
+
+.codepen-button:hover{
+    box-shadow: 0 0 100px gray,
+    0 0 100px gray,0 0 104px gray,
+    0 0 100px gray,0 0 100px gray;
+    transform: scale(1.1);
+    transition: transform 0.8s;
+}
+
+.Btn:hover{
+    box-shadow: 0 0 100px gray,
+    0 0 100px gray,0 0 104px gray,
+    0 0 100px gray,0 0 100px gray;
+    transform: scale(1.1);
+    transition: transform 0.8s;
+}
+
+.flip-card:hover{
+    box-shadow: 0 0 80px gray,
+    0 0 80px gray,0 0 74px gray,
+    0 0 80px gray,0 0 80px gray;
+    transform: scale(1.1);
+    transition: transform 0.8s;
+}
+
+.card1:hover{
+    box-shadow: 0 0 50px gray,
+    0 0 50px gray,0 0 52px gray,
+    0 0 50px gray,0 0 50px gray;
+    transform: scale(1.1);
+    transition: transform 0.8s;
+}
+
+.card2:hover{
+    box-shadow: 0 0 60px gray,
+    0 0 60px gray,0 0 62px gray,
+    0 0 60px gray,0 0 60px gray;
+    transform: scale(1.1);
+    transition: transform 0.8s;
+}
+
+.form-box:hover{
+    box-shadow: 0 0 60px gray,
+    0 0 60px gray,0 0 62px gray,
+    0 0 60px gray,0 0 60px gray;
+    transform: scale(1.1);
+    transition: transform 0.8s;
+}
+
+.inputbox:hover{
+    box-shadow: 0 0 60px rgb(206, 206, 206),
+    0 0 60px rgb(206, 206, 206),0 0 64px rgb(206, 206, 206),
+    0 0 60px rgb(206, 206, 206),0 0 60px rgb(206, 206, 206);
+    transform: scale(1.1);
+    transition: transform 0.8s;
+}
+
+.tooltip-container:hover{
+    box-shadow: 0 0 60px rgb(206, 206, 206),
+    0 0 60px rgb(206, 206, 206),0 0 62px rgb(206, 206, 206),
+    0 0 60px rgb(206, 206, 206),0 0 60px rgb(206, 206, 206);
+    transform: scale(1.1);
+    transition: transform 0.8s;
+}
+
+.container:hover{
+    box-shadow: 0 0 60px rgb(206, 206, 206),
+    0 0 60px rgb(206, 206, 206),0 0 62px rgb(206, 206, 206),
+    0 0 60px rgb(206, 206, 206),0 0 60px rgb(206, 206, 206);
+    transform: scale(1.1);
+    transition: transform 0.8s;
+}
+
+
+
+
+
+
+.pppp:hover{
+    transform: scale(1.03);
+    transition: transform 0.7s;
+    color: white;
+  }
+  .p1-1:hover{
+    transform: scale(1.03);
+    transition: transform 0.7s;
+    color: rgba(255, 255, 255, 0.718);
+  }
+  .p2-1:hover{
+    transform: scale(1.03);
+    transition: transform 0.7s;
+    color: rgba(255, 255, 255, 0.718);
+  }
+  .p3-1:hover{
+    transform: scale(1.03);
+    transition: transform 0.7s;
+    color: rgba(255, 255, 255, 0.718);
+  }
+  .p4-1:hover{
+    transform: scale(1.03);
+    transition: transform 0.7s;
+    color: rgba(255, 255, 255, 0.718);
+  }
+  .p5-1:hover{
+    transform: scale(1.03);
+    transition: transform 0.7s;
+    color: rgba(255, 255, 255, 0.718);
+  }
+  
+  .img15:hover{
+    transform: scale(1.2);
+    transition: transform 0.6s;
+  }
+  .img16:hover{
+    transform: scale(1.2);
+    transition: transform 0.6s;
+  }
+  .img17:hover{
+    transform: scale(1.2);
+    transition: transform 0.6s;
+  }
+  .img18:hover{
+    transform: scale(1.2);
+    transition: transform 0.6s;
+  }
+  .img19:hover{
+    transform: scale(1.2);
+    transition: transform 0.6s;
+  }
+  .img20:hover{
+    transform: scale(1.2);
+    transition: transform 0.6s;
+  }
+  .p6-1:hover{
+    transform: scale(1.02);
+    transition: transform 0.7s;
+    color: rgba(255, 255, 255, 0.718);
+  }
+  .a1:hover{
+    transform: scale(1.03);
+    transition: transform 0.7s;
+  }
+  
+  .p7-1:hover{
+    transform: scale(1.02);
+    transition: transform 0.7s;
+    color: rgba(255, 255, 255, 0.718);
+  }
+  .a2:hover{
+    transform: scale(1.03);
+    transition: transform 0.7s;
+  }
+  .a3:hover{
+    transform: scale(1.03);
+    transition: transform 0.7s;
+  }
+  .a4:hover{
+    transform: scale(1.03);
+    transition: transform 0.7s;
+  }
+  .insta:hover{
+    transform: scale(1.2);
+    transition: transform 0.6s;
+  }
+  .snap:hover{
+    transform: scale(1.2);
+    transition: transform 0.6s;
+  }
+  .tiktok:hover{
+    transform: scale(1.2);
+    transition: transform 0.6s;
+  }
+  
+  .logo:hover{
+    transform: scale(1.2);
+    transition: transform 0.6s;
+  }
